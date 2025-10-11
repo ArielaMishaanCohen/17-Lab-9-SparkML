@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.StringIndexerModel","timestamp":1760150013862,"sparkVersion":"3.5.1","uid":"StringIndexer_6788a1c2d92b","paramMap":{"inputCol":"zona_ocu","outputCol":"zona_index"},"defaultParamMap":{"handleInvalid":"error","stringOrderType":"frequencyDesc","outputCol":"StringIndexer_6788a1c2d92b__output"}}

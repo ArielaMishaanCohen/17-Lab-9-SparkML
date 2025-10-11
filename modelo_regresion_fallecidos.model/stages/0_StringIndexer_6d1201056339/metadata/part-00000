@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.StringIndexerModel","timestamp":1760150012623,"sparkVersion":"3.5.1","uid":"StringIndexer_6d1201056339","paramMap":{"outputCol":"tipo_accidente_index","inputCol":"tipo_eve"},"defaultParamMap":{"stringOrderType":"frequencyDesc","outputCol":"StringIndexer_6d1201056339__output","handleInvalid":"error"}}
